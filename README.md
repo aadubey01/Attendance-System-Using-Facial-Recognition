@@ -6,9 +6,11 @@ desktop application to cater various cases of the system such as student details
 viewing attendance report,etc.
 This projeect can serve as an efficient substitute for traditional manual attendance system. it can be used many places including corporate offices,
 ,organizations etc. where security is necessary.
-The project aims![Attendance](https://user-images.githubusercontent.com/91027094/170967071-2a50c280-1127-4c78-a269-0747bb99682d.png)
- to automate the traditional manual attendance system.It also can help the organizations,schools to keep the records.Digitalization of the system
+The project aims to automate the traditional manual attendance system.It also can help the organizations,schools to keep the records.Digitalization of the system
 would help in tacking the record.
+
+[Attendance](https://user-images.githubusercontent.com/91027094/170967071-2a50c280-1127-4c78-a269-0747bb99682d.png)
+
 
 
 SCOPE OF THE PROJECT
@@ -19,7 +21,6 @@ facial Recognition.
 This project also cover GUI development with a user friendly interface.
 HOW TO RUN??
 
-*Clone it on your computer.
 *Make a seperate python virtual environment or use the default one already installed on your 
 computer.
-*Open the directory and search for main.exe click on it and the application will run.
+*Open the directory and search for main.py click on it and the application will run.
