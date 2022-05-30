@@ -24,4 +24,4 @@ HOW TO RUN??
 *Make a seperate python virtual environment or use the default one already installed on your 
 computer.
 *Open the directory and search for main.py click on it and the application will run.
-[Attendance](https://user-images.githubusercontent.com/91027094/170967071-2a50c280-1127-4c78-a269-0747bb99682d.png)
+(https://user-images.githubusercontent.com/91027094/170967071-2a50c280-1127-4c78-a269-0747bb99682d.png)
