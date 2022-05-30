@@ -9,8 +9,6 @@ This projeect can serve as an efficient substitute for traditional manual attend
 The project aims to automate the traditional manual attendance system.It also can help the organizations,schools to keep the records.Digitalization of the system
 would help in tacking the record.
 
-[Attendance](https://user-images.githubusercontent.com/91027094/170967071-2a50c280-1127-4c78-a269-0747bb99682d.png)
-
 
 
 SCOPE OF THE PROJECT
@@ -24,4 +22,4 @@ HOW TO RUN??
 *Make a seperate python virtual environment or use the default one already installed on your 
 computer.
 *Open the directory and search for main.py click on it and the application will run.
-(https://user-images.githubusercontent.com/91027094/170967071-2a50c280-1127-4c78-a269-0747bb99682d.png)
+![Attendance](https://user-images.githubusercontent.com/91027094/170968479-5b56102c-865b-4d8c-8004-06f5c7648d7b.png)
